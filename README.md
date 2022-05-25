@@ -1,7 +1,7 @@
 # How to use
 
 - Download the `docker-compose.yml` file
-- Edit and Replace the viewing key and height `VK` and `HEIGHT`
+- Edit and Replace the viewing key and height `VK` and `BIRTH_HEIGHT`
 - Run docker compose
   ```docker-compose -f docker-compose.yml up```
 - Wait for:
